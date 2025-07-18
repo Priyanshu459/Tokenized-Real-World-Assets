@@ -6,7 +6,7 @@ Contact Address : 0x6e425cD4fa17C5B47d3eA3481d1570cd3082C301
 
 ## Project Description
 
-The Tokenized Real-World Assets (TRWA) project is a blockchain-based solution that bridges the gap between traditional physical assets and the digital world. This project leverages the Ethereum blockchain and NFT (Non-Fungible Token) technology to represent ownership of real-world assets such as real estate, art, commodities, and other valuable physical items as digital tokens.
+The  Tokenized Real-World Assets (TRWA) project is a blockchain-based solution that bridges the gap between traditional physical assets and the digital world. This project leverages the Ethereum blockchain and NFT (Non-Fungible Token) technology to represent ownership of real-world assets such as real estate, art, commodities, and other valuable physical items as digital tokens.
 
 By tokenizing real-world assets, we enable fractional ownership, increased liquidity, reduced transaction costs, and global access to traditionally illiquid assets. Each token is directly backed by and legally bound to a specific physical asset, creating a secure and transparent way to transfer and track ownership.
 
